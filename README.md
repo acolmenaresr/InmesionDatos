@@ -1,2 +1,2 @@
-# InmesionDatos
-Inmesión en ciencia de Datos
+# InmersionDatos
+Inmersión en ciencia de Datos
